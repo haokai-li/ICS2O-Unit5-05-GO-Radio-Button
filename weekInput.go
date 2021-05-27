@@ -15,7 +15,7 @@ func main() {
 	var day string
 
 	// input
-	fmt.Println("This program is about weekend and age .")
+	fmt.Println("This program is about weekend and age.")
 	fmt.Println()
 	fmt.Print("Enter your age: ")
 	fmt.Scanln(&age)
