@@ -26,10 +26,10 @@ func main() {
 	if (day == "saturday" || day == "sunday") && (age >= 18 || age < 18) {
 		// relax
 		fmt.Println("Time to relax for the weekend!")
-	} else if !(day == "tuesday" || day == "thursday") && age < 18 {
+	} else if age < 18 {
 		// go to school
 		fmt.Println("Time for school!")
-	} else if !(day == "tuesday" || day == "thursday") && age >= 18 {
+	} else if age >= 18 {
 		// go to work
 		fmt.Println("Time to go to work!")
 	}
