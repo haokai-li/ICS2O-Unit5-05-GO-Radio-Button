@@ -1,1 +1,2 @@
 # ICS2O-Unit5-05-GO-Radio-Button
+[![GitHub's Super Linter](https://github.com/haokai-li/ICS2O-Unit5-05-GO-Radio-Button/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/haokai-li/ICS2O-Unit5-05-GO-Radio-Button/actions)
